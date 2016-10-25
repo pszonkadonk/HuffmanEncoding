@@ -1,0 +1,11 @@
+Character: a Frequency: 3
+Character: b Frequency: 5
+Character: c Frequency: 4
+Character: d Frequency: 6
+Character: e Frequency: 12
+CHAR: e HUFFMAN ENCODING: 0
+CHAR: a HUFFMAN ENCODING: 100
+CHAR: c HUFFMAN ENCODING: 101
+CHAR: b HUFFMAN ENCODING: 110
+CHAR: d HUFFMAN ENCODING: 111
+Length of coded message (in terms of bits): 66
